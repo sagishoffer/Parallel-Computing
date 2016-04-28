@@ -1,0 +1,27 @@
+subMat[0][0].emm = -0.646511	subMat[0][1].emm = -0.309245	subMat[0][2].emm = -1.421149	subMat[0][3].emm = -4.006408	subMat[0][4].emm = -0.369079	subMat[0][5].emm = -0.331589	subMat[0][6].emm = -0.306796	subMat[0][7].emm = -4.680696	subMat[0][8].emm = -3.479246	subMat[0][9].emm = -0.052638
+
+subMat[1][0].emm = -0.694347	subMat[1][1].emm = -0.321865	subMat[1][2].emm = -1.479193	subMat[1][3].emm = -4.043131	subMat[1][4].emm = -0.397866	subMat[1][5].emm = -0.364865	subMat[1][6].emm = -0.303229	subMat[1][7].emm = -4.680765	subMat[1][8].emm = -3.544764	subMat[1][9].emm = -0.057531
+
+subMat[2][0].emm = -0.718044	subMat[2][1].emm = -0.329346	subMat[2][2].emm = -1.507592	subMat[2][3].emm = -4.061712	subMat[2][4].emm = -0.412792	subMat[2][5].emm = -0.381859	subMat[2][6].emm = -0.303257	subMat[2][7].emm = -4.682467	subMat[2][8].emm = -3.576604	subMat[2][9].emm = -0.061454
+
+subMat[3][0].emm = -0.439523	subMat[3][1].emm = -0.428085	subMat[3][2].emm = -1.119708	subMat[3][3].emm = -3.902231	subMat[3][4].emm = -0.338331	subMat[3][5].emm = -0.259299	subMat[3][6].emm = -0.575392	subMat[3][7].emm = -4.915660	subMat[3][8].emm = -3.108654	subMat[3][9].emm = -0.242964
+
+subMat[4][0].emm = -0.550936	subMat[4][1].emm = -0.299284	subMat[4][2].emm = -1.300755	subMat[4][3].emm = -3.937847	subMat[4][4].emm = -0.319812	subMat[4][5].emm = -0.271406	subMat[4][6].emm = -0.336184	subMat[4][7].emm = -4.701248	subMat[4][8].emm = -3.340682	subMat[4][9].emm = -0.061460
+
+subMat[5][0].emm = -0.763614	subMat[5][1].emm = -0.345565	subMat[5][2].emm = -1.561669	subMat[5][3].emm = -4.098021	subMat[5][4].emm = -0.442486	subMat[5][5].emm = -0.415295	subMat[5][6].emm = -0.305986	subMat[5][7].emm = -4.688225	subMat[5][8].emm = -3.636911	subMat[5][9].emm = -0.071234
+
+subMat[6][0].emm = -0.474256	subMat[6][1].emm = -0.326742	subMat[6][2].emm = -1.193887	subMat[6][3].emm = -3.894027	subMat[6][4].emm = -0.299460	subMat[6][5].emm = -0.237778	subMat[6][6].emm = -0.411506	subMat[6][7].emm = -4.765821	subMat[6][8].emm = -3.211712	subMat[6][9].emm = -0.111766
+
+subMat[7][0].emm = -0.794879	subMat[7][1].emm = -0.357874	subMat[7][2].emm = -1.598430	subMat[7][3].emm = -4.123304	subMat[7][4].emm = -0.463498	subMat[7][5].emm = -0.438723	subMat[7][6].emm = -0.309583	subMat[7][7].emm = -4.693779	subMat[7][8].emm = -3.677694	subMat[7][9].emm = -0.079384
+
+subMat[8][0].emm = -0.589992	subMat[8][1].emm = -0.300105	subMat[8][2].emm = -1.350896	subMat[8][3].emm = -3.964839	subMat[8][4].emm = -0.338187	subMat[8][5].emm = -0.294656	subMat[8][6].emm = -0.319431	subMat[8][7].emm = -4.688441	subMat[8][8].emm = -3.398937	subMat[8][9].emm = -0.053892
+
+subMat[9][0].emm = -0.440894	subMat[9][1].emm = -0.398619	subMat[9][2].emm = -1.130019	subMat[9][3].emm = -3.893872	subMat[9][4].emm = -0.323022	subMat[9][5].emm = -0.247923	subMat[9][6].emm = -0.531752	subMat[9][7].emm = -4.875204	subMat[9][8].emm = -3.125510	subMat[9][9].emm = -0.206732
+
+subMat[10][0].emm = -0.502678	subMat[10][1].emm = -0.309295	subMat[10][2].emm = -1.235606	subMat[10][3].emm = -3.907975	subMat[10][4].emm = -0.303072	subMat[10][5].emm = -0.247237	subMat[10][6].emm = -0.372977	subMat[10][7].emm = -4.732026	subMat[10][8].emm = -3.263166	subMat[10][9].emm = -0.084256
+
+subMat[11][0].emm = -0.447840	subMat[11][1].emm = -0.496677	subMat[11][2].emm = -1.110552	subMat[11][3].emm = -3.929567	subMat[11][4].emm = -0.379251	subMat[11][5].emm = -0.292535	subMat[11][6].emm = -0.671688	subMat[11][7].emm = -5.005734	subMat[11][8].emm = -3.086706	subMat[11][9].emm = -0.324781
+
+subMat[12][0].emm = -0.472226	subMat[12][1].emm = -0.328615	subMat[12][2].emm = -1.190727	subMat[12][3].emm = -3.893229	subMat[12][4].emm = -0.299542	subMat[12][5].emm = -0.237362	subMat[12][6].emm = -0.415173	subMat[12][7].emm = -4.769085	subMat[12][8].emm = -3.207724	subMat[12][9].emm = -0.114496
+
+subMat[13][0].emm = -0.528935	subMat[13][1].emm = -0.724523	subMat[13][2].emm = -1.149106	subMat[13][3].emm = -4.056968	subMat[13][4].emm = -0.539723	subMat[13][5].emm = -0.434298	subMat[13][6].emm = -0.966982	subMat[13][7].emm = -5.285882	subMat[13][8].emm = -3.094115	subMat[13][9].emm = -0.584824
